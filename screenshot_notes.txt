@@ -1,0 +1,11 @@
+Screenshot observations:
+1. The 3D scene is rendering with the drone image as ground plane - looks great
+2. Sidebar is showing all 15 locations with proper icons and categories
+3. Category filter pills are working
+4. TopBar with controls is visible
+5. MiniMap with compass is in bottom-right
+6. The ground plane is visible with the drone image texture
+7. However, the 3D markers/pins are NOT visible - they may be loading after a delay or the timing is off
+8. The scene appears dark but the drone image texture is visible
+
+Issue: Markers may not be appearing. Need to check if the 500ms delay is sufficient or if there's a timing issue with texture loading and marker creation.
