@@ -18,7 +18,7 @@ export default function MiniMap() {
         {/* Mini drone image preview */}
         <div className="w-24 h-16 rounded-lg overflow-hidden border border-white/10 relative">
           <img
-            src="/manus-storage/1000087507_1e3231b3.jpg"
+            src="/1000087507_1e3231b3.jpg"
             alt="Campus overview"
             className="w-full h-full object-cover"
           />

@@ -94,7 +94,7 @@ export default function CampusScene({
     // Ground plane (drone image)
     const textureLoader = new THREE.TextureLoader();
     textureLoader.load(
-      "/manus-storage/1000087507_1e3231b3.jpg",
+      "/1000087507_1e3231b3.jpg",
       (texture) => {
         texture.wrapS = THREE.ClampToEdgeWrapping;
         texture.wrapT = THREE.ClampToEdgeWrapping;
