@@ -18,6 +18,8 @@ const redirectToLoginIfUnauthorized = (error: unknown) => {
 
   if (!isUnauthorized) return;
 
+  const pathname = window.location.pathname;
+  if (pathname === "/signup" || pathname === "/signin") return;
   startLogin();
 };
 

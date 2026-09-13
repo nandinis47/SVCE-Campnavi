@@ -1,0 +1,25 @@
+id,name,number,campusLocationCategory,description,x,y,icon,createdAt,updatedAt
+amphitheater,Amphitheater,14,service,"Open-air amphitheater for events, performances, and gatherings",0.25,0.22,Theater,08/09/2026 06:04,08/09/2026 06:04
+basketball,Basketball Court,23,sports,Outdoor basketball court for practice and matches,0.48,0.85,CircleDot,08/09/2026 06:04,08/09/2026 06:04
+boys-hostel,Boys Hostel,21,hostel,Residential hostel for male students,0.33,0.75,Home,08/09/2026 06:04,08/09/2026 06:04
+bus-stop,Bus Stop,19,service,Bus stop for college transport and public buses,0.48,0.4,Bus,08/09/2026 06:04,08/09/2026 06:04
+cafeteria,Cafeteria,15,service,Food court and dining area near the academic blocks,0.28,0.28,Utensils,08/09/2026 06:04,08/09/2026 06:04
+canteen,Canteen,17,service,Main campus canteen serving snacks and meals,0.32,0.58,UtensilsCrossed,08/09/2026 06:04,08/09/2026 06:04
+center-dome,Center Dome,6,academic,Central dome structure — landmark building of the campus,0.35,0.07,Landmark,08/09/2026 06:04,08/09/2026 06:04
+college-bus-parking,College Bus Parking,3,parking,Designated parking area for college buses,0.1,0.18,Bus,08/09/2026 06:04,08/09/2026 06:04
+enquiry-office,Enquiry Office,2,administrative,Admissions and general enquiry office near the main gate,0.16,0.32,Phone,08/09/2026 06:04,08/09/2026 06:04
+girls-hostel,Girls Hostel,13,hostel,Residential hostel for female students,0.92,0.15,Home,08/09/2026 06:04,08/09/2026 06:04
+girls-hostel-entrance,Girls Hostel Entrance,12,hostel,Entrance gate to the girls hostel area,0.61,0.24,DoorClosed,08/09/2026 06:04,08/09/2026 06:04
+l-wing-1,L Wing 1 (Classrooms),7,academic,Left wing classroom block — teaching and lecture rooms,0.45,0.07,GraduationCap,08/09/2026 06:04,08/09/2026 06:04
+l-wing-2,L Wing 2 (Classrooms),8,academic,Left wing classroom block — additional teaching spaces,0.5,0.18,GraduationCap,08/09/2026 06:04,08/09/2026 06:04
+main-gate,Main Gate,1,service,Primary entry point to the campus with security checkpoint,0.13,0.35,DoorOpen,08/09/2026 06:04,08/09/2026 06:04
+new-block,New Block,10,academic,Recently constructed block with modern facilities,0.78,0.06,Building2,08/09/2026 06:04,08/09/2026 06:04
+parking,Parking,18,parking,Main parking area for cars and two-wheelers,0.45,0.55,ParkingCircle,08/09/2026 06:04,08/09/2026 06:04
+r-wing-1,R Wing 1 (Classrooms),4,academic,Right wing classroom block — teaching and lecture rooms,0.26,0.08,GraduationCap,08/09/2026 06:04,08/09/2026 06:04
+r-wing-2,R Wing 2 (Classrooms),5,academic,Right wing classroom block — additional teaching spaces,0.21,0.14,GraduationCap,08/09/2026 06:04,08/09/2026 06:04
+second-gate,2nd Gate,11,service,Secondary entrance/exit gate of the campus,0.55,0.27,DoorOpen,08/09/2026 06:04,08/09/2026 06:04
+sports-ground,Sports Ground,22,sports,Athletic field with running track and playing area,0.33,0.85,Dumbbell,08/09/2026 06:04,08/09/2026 06:04
+sports-ground-entrance,Sports Ground Entrance,20,sports,Entry gate to the sports ground and athletic facilities,0.26,0.44,Play,08/09/2026 06:04,08/09/2026 06:04
+staff-lounge,Staff Lounge,24,service,Lounge area for teaching and administrative staff,0.53,0.08,Users,08/09/2026 06:04,08/09/2026 06:04
+student-lounge,Student Lounge,9,service,Common lounge area for students and faculty to relax,0.53,0.22,Coffee,08/09/2026 06:04,08/09/2026 06:04
+xerox,Xerox,16,service,Photocopying and printing shop for students,0.32,0.3,Printer,08/09/2026 06:04,08/09/2026 06:04

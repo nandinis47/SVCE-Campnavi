@@ -1,0 +1,162 @@
+id,label,routeFloor,routeNodeKind,anchorId,ambiguous,reviewNote,buildingSection,roomAnchorId,mainAnchorId,createdAt,updatedAt
+ade-lab-room,ADE Lab Room,ground,room,,1,Retained as a legacy alias for the clarified R107 / ADE Lab Room stop.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+admission-block,Admission Block,ground,location,,1,The document distinguishes Admission Block from Enquiry Office but the current map has no separate anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+admission-face-turn,Admission Enquiry → Face Detection Turn Point,ground,junction,,1,The user confirms a right turn after 20 straight steps but supplies no unique map coordinate.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+admission-section-counters,Admission Section Counters,ground,location,,1,The user identifies the Admission Section counters but supplies no 3D anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+admission-section-end,Admission Section End,ground,location,,1,The user identifies the end of the Admission Section but supplies no 3D anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+admission-section-start,Admission Section Starts,ground,location,,1,The user identifies the start of the Admission Section after Delegates Lounge but supplies no 3D anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+amphitheatre,Amphitheatre,ground,location,amphitheater,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+amphitheatre-63-end,Amphitheatre 63-Step End,ground,endpoint,,1,The user identifies this as the end of the 63-step Amphitheatre segment; no unique map anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+amphitheatre-route,Amphitheatre Route,ground,junction,,1,The user identifies this as the 5-step endpoint before the 63-step Amphitheatre segment; no unique map anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+atm,ATM,ground,location,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+basic-science-centre,Department of Basic Science Centre Point,floor-1,junction,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+basic-science-staircase,Department of Basic Science Staircase,floor-1,staircase,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+boys-hostel,Boys Hostel,ground,location,boys-hostel,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+boys-washroom,Boys Washroom,ground,room,,1,Retained as a legacy node; the clarified straight sequence identifies R106 as the Boys Washroom.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+bus-stop,Bus Stop,ground,location,bus-stop,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+cafeteria-crossing,Cafeteria 68-Step Continuation,ground,junction,,1,The user describes the entire cafeteria segment as 68 steps; no unique endpoint anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+cafeteria-entrance-1,Cafeteria Entrance 1,ground,location,cafeteria,1,The document distinguishes two cafeteria entrances but the current map has one Cafeteria anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+cafeteria-entrance-2,Cafeteria Entrance 2,ground,location,cafeteria,1,The document distinguishes two cafeteria entrances but the current map has one Cafeteria anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+cafeteria-entrance-route,Cafeteria Entrance,ground,location,,1,The route document says Cafeteria Entrance without a unique map anchor or confirmation that it is Entrance 2.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+cafeteria-route,Cafeteria,ground,location,,1,This is the route-document Cafeteria node; it is kept separate from the current Canteen marker because no unique Cafeteria anchor was supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+canteen-gate,Gate after Main Canteen,ground,gate,,1,The source mentions a gate after the canteen but gives no separate current map anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+center-dome,Center Dome,ground,location,center-dome,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+center-dome-entrance,Center Dome Entrance / Main College Building Entrance,ground,location,,1,The user combines Center Dome Entrance with Main College Building Entrance; no unique anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+civil-lift-centre,Civil Engineering Lift and Centre Point,floor-2,lift,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+civil-staircase,Department of Civil Engineering Staircase,floor-2,staircase,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+college-bus-parking,College Bus Parking,ground,location,college-bus-parking,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+courtyard-branch-point,Courtyard Branch Point,ground,junction,,1,The user describes this point after the 5-step straight segment but has not supplied a unique map anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+courtyard-right-seating,Courtyard Right Seating Area,ground,location,,1,The earlier courtyard branch was superseded by the user's later Amphitheatre route description.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+data-science-hod-room,Data Science HOD Room,ground,room,,1,Retained as a legacy alias; the clarified straight sequence identifies R105 as the Data Science HOD Room.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+decorative-fountain,Decorative Fountain,ground,junction,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+delegates-lounge-approach,Delegates Lounge Approach,ground,junction,,1,The user describes a 13-step straight approach followed by a zero-step right turn into Delegates Lounge; no unique anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+delegates-lounge-principal-chamber,Delegates Lounge / Principal Chamber,ground,location,,1,The source combines Delegates Lounge with Principal Chamber and supplies no unique 3D anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+drinking-water-ground,Drinking Water Counter (New Block Ground Floor),ground,location,,1,The source names multiple drinking-water counters without unique coordinates.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+ds-skill-lab,DS Skill Lab,ground,room,,1,The source names DS Skill Lab but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb105a,EB105A (Data Science Department),ground,room,,1,The source identifies EB105A but supplies no unique 3D room anchor.,R Wing 1 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb107ab,EB107 A/B (Laboratory),ground,room,,1,The source identifies EB107 A/B Laboratory but supplies no unique 3D room anchor.,R Wing 1 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb108ab,EB108 A/B Laboratory,ground,room,,1,The source identifies EB108 A/B Laboratory but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb109-project-room,EB109 Project Room,ground,room,,1,The source identifies EB109 Project Room but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb110-controller-office,EB110 (Office of Controller of Examination),ground,room,,1,The source identifies EB110 but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb111-controller-office,EB111 (Office of Controller of Examination),ground,room,,1,The source identifies EB111 but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb112-interactive-learning-room,EB112 Interactive Learning Room (Meeting Room),ground,room,,1,The source identifies EB112 but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb120-student-community-centre,EB120 Student Community Centre,ground,room,,1,The source identifies EB120 Student Community Centre but supplies no unique 3D room anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb122ab,EB122 A/B Computer Center,ground,room,,1,No unique 3D room anchor is supplied.,R Wing 1 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb123ab,EB123 A/B CAD Laboratory,ground,room,,1,No unique 3D room anchor is supplied.,R Wing 1 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+eb124ab1,EB124 A/B1 Laboratory,ground,room,,1,No unique 3D room anchor is supplied.,R Wing 1 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+enquiry-office,Admission Enquiry,ground,location,enquiry-office,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+exit-gate,Exit Gate,ground,gate,,1,The source names an Exit Gate but the current map has no separate Exit Gate anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+face-detection,Face Detection Area,ground,junction,,1,The user identifies Face Detection as a smaller route location within the R Wing 2 approach; it has no separate 3D marker.,,,r-wing-2,2026-09-09 18:10:22,2026-09-09 18:10:22
+face-detection-junction,Face Detection Junction,ground,junction,,1,The user confirms this junction but has not supplied a unique map anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+fluid-mechanics-lab,Fluid Mechanics and Hydraulic Machines Laboratory,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+fountain-cafeteria-turn,Decorative Fountain Cafeteria Turn,ground,junction,,1,The user identifies a 6-step right turn and zero-step left turn before Cafeteria; no 3D anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+fountain-face-stage,Decorative Fountain 24-Step Stage,ground,junction,,1,The user identifies a 24-step stage before the 34-step Face Detection Junction segment; no 3D anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+fountain-seating-branch,Decorative Fountain Seating Branch,ground,junction,,1,The user describes a 21-step branch point before Student Lawn Seating or L Wing 2; no 3D anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+fountain-xerox-approach,Decorative Fountain to Xerox Approach,ground,junction,,1,The user supplies an approximate 0–24-step approach before the 12-step Xerox segment.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+gate-2,Gate 2,floor-1,gate,second-gate,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+girls-hostel-endpoint,Girls Hostel Compound View Endpoint,ground,endpoint,girls-hostel,1,The source describes a visible endpoint rather than a named entrance.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+girls-hostel-entrance,Girls Hostel Entrance,floor-1,gate,girls-hostel-entrance,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+ground-floor-staircase,Ground Floor Staircase,ground,staircase,,1,The source does not identify one unique staircase coordinate.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+hot-corns,Hot Corns,ground,location,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+l-wing-1,L Wing 1,ground,location,l-wing-1,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+l-wing-1-staircase,L Wing 1 Staircase,ground,staircase,,1,The source describes this staircase but supplies no unique map coordinate.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+l-wing-2-block,L Wing 2 Block,ground,location,,1,The user identifies L Wing 2 Block but supplies no unique current 3D anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+l-wing-2-cyber-staircase,L Wing 2 Cyber Security Department Floor 1 Staircase,floor-1,staircase,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+lift-library,Lift and Library,ground,lift,,1,Combined wording does not identify separate lift and library coordinates.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+main-canteen,Main Canteen,ground,location,canteen,1,The document calls this Main Canteen; current map label is Canteen.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+main-gate,Main Gate,ground,gate,main-gate,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+main-road-junction,Main Road Junction,floor-1,junction,,1,Named junction has no unique map coordinate in the current model.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+mba-lift-centre,MBA Lift and Centre Point,floor-3,lift,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+mba-staircase,MBA Block Staircase,floor-3,staircase,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+mechanical-rd-centre,Mechanical Engineering Research and Development Centre,floor-1,location,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+medical-room,Medical Room,ground,location,,1,The source writes −2 steps left to Medical Room; the sign/measurement is ambiguous and requires confirmation.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+meeting-room,Meeting Room,ground,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n101,N101 – Energy Conservation Engineering Laboratory,ground,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n102,N102 – Geotechnical Engineering Laboratory,ground,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n104,N104 – Ladies Washroom,ground,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n105,N105 – Foundry and Forging Laboratory,ground,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n201,N201 – Classroom,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n202,N202 – Classroom,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n203,N203 – Classroom,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n204,N204 – Counselling Room,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n205,N205 – HOD of Basic Science Room,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n206,N206 – Classroom,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n207,N207 – Skills Lab,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n208,N208 – Classroom,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n209,N209 – Design Lab,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n210,N210 – Heat and Mass Transfer Laboratory,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n211,N211 – Department Library,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n213,N213 – Classroom,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n214,N214 – Staff Room 1,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n301,N301 – Classroom,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n302,N302 – Classroom,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n303,N303 – Classroom,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n304,N304 – Gents Washroom,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n305,N305 – Ladies Washroom,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n306,N306 – HOD of Civil Engineering Room,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n307,N307 – Staff Room 1,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n308,N308 – Staff Room 2,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n309,N309 – Classroom,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n310,N310 – Computer-Aided Design Lab,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n311,N311 – Environmental Lab,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n312,N312 – Geology Lab,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n315,N315 – Conference Lounge,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n316,N316 – Seminar Hall,floor-2,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n401,N401 – Seminar Hall,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n402,N402 – MCA Lecture Hall,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n403,N403 – Boys Washroom,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n404,N404 – Girls Washroom,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n405,N405 – Lecture Hall,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n406,N406 – HOD of MBA Room,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n407,N407 – Staff Room,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n408,N408 – Department of MCA,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n409,N409 – Lecture Hall (Finance),floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n410,N410 – MBA,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n411,N411 – MBA,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n412,N412 – Lecture Hall (Marketing),floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n413,N413 – M.Tech Classroom,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+n414,N414 – M.Tech Classroom,floor-3,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+new-block-lift-stair-junction,New Block Lift/Staircase Junction,ground,junction,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+new-block-main-entrance,New Block Main Entrance,ground,gate,new-block,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+new-block-staircase,New Block Staircase to Next Floor,ground,staircase,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+principal-chamber,Principal Chamber,ground,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1,R Wing 1,ground,location,r-wing-1,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-first-floor,R Wing 1 — 1st Floor,floor-1,endpoint,,1,The source identifies this first-floor destination but supplies no unique stair landing anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-first-floor-junction,R Wing 1 — First-Floor Junction,floor-1,junction,,1,The supplied 26 steps terminate at this first-floor junction; the exact onward branch to a specific first-floor destination is not yet supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-ground-labs,R Wing 1 Ground-Floor Labs,ground,location,r-wing-1,1,"The R Wing 1 ground-floor lab sequence is room-anchored at R112, 5 steps from R Wing Junction; the broader building anchor remains R Wing 1.",R Wing 1 Ground-Floor Labs,r112,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-lab-branch,R Wing 1 Laboratory Branch,ground,junction,,1,The user identifies the branch after EB122 for lawn/amphitheatre or the first-floor R Wing 1 path; no unique anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-laboratory-block,R Wing 1 Laboratory Block,ground,location,r-wing-1,1,The user identifies the R Wing 1 laboratory block; room-level 3D anchors are not supplied.,R Wing 1 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-lawn-amphitheatre,R Wing 1 Lawn and Amphitheatre,ground,location,,1,No current campus marker or unique map coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-1-staircase,R Wing 1 Staircase,ground,staircase,,1,The source describes this staircase but supplies no unique map coordinate.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-2,R Wing 2 College Block (Ground Floor),ground,location,r-wing-2,0,,R Wing 2 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-2-first-floor,R Wing 2 — 1st Floor,floor-1,endpoint,,1,The source identifies this first-floor destination but supplies no unique stair landing anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-2-staircase,Shared R Wing Stairs,ground,staircase,,1,The source places the stairs after College Bus Parking but does not provide a unique 3D coordinate.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r-wing-junction,R Wing Junction,ground,junction,,1,The source names the R Wing Junction but supplies no unique 3D coordinate.,R Wing 2 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r101,EB101 (Studio Room),ground,room,,1,The source identifies EB101 (Studio Room) but supplies no unique 3D room anchor.,R Wing 2 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r102,EB102 (Studio Room),ground,room,,1,The source identifies EB102 (Studio Room) but supplies no unique 3D room anchor.,R Wing 2 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r103,EB103 (Studio Room),ground,room,,1,The source identifies EB103 (Studio Room) but supplies no unique 3D room anchor.,R Wing 2 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r104-ds-staffroom,EB104 (DS Faculty Room),ground,room,,1,The source identifies EB104 (DS Faculty Room) but supplies no unique 3D room anchor.,R Wing 2 Ground Floor,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r105-boys-washroom,R105 / Data Science HOD Room,ground,room,,1,The source identifies this straight-branch stop as R105 / Data Science HOD Room; no unique 3D room anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r106-ds-hod,R106 / Boys Washroom,ground,room,,1,The source identifies this straight-branch stop as R106 / Boys Washroom; no unique 3D room anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r107-ade-lab,R107 / ADE Lab Room,ground,room,,1,The source identifies this straight-branch stop as R107 / ADE Lab Room; no unique 3D room anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r111,R111,ground,room,,1,Room anchor is not present in the current 3D location data.,R Wing 1 Ground-Floor Labs,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r112,R112,ground,room,,1,Confirmed room-level anchor for the R Wing 1 ground-floor lab branch; no normalized 3D room coordinate is present in campus data.,R Wing 1 Ground-Floor Labs,r112,,2026-09-09 18:10:22,2026-09-09 18:10:22
+r113,R113,ground,room,,1,Room anchor is not present in the current 3D location data.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+research-lab,Research Laboratory,floor-1,room,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+route-xerox,Xerox,ground,location,xerox,1,Route-document Xerox is kept separate from the combined legacy Xerox and Medical Room node.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+sitting-benches-greenery-1,Sitting Benches with Greenery 1,ground,location,,1,No current campus marker or unique map coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+sitting-benches-greenery-2,Sitting Benches with Greenery 2,ground,location,,1,No current campus marker or unique map coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+sports-ground,Sports Ground,ground,location,sports-ground,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+sports-ground-gate,Sports Ground Gate,ground,gate,,1,"The current gate geometry has a visual anchor, but the PDF does not provide a normalized image coordinate.",,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+staff-lounge,Staff Lounge,floor-1,location,staff-lounge,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+student-community-centre,Student Community Centre,ground,location,,1,No current campus marker or unique image coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+student-community-centre-main-area,Student Community Centre (Main Area),ground,location,,1,The source identifies the main area separately from EB120 but supplies no unique 3D anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+student-lawn-seating,Student Lawn Seating,ground,location,,1,No current campus marker or unique map coordinate is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+student-lounge,Student Lounge,floor-1,location,student-lounge,0,,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+student-seating-courtyard,Student Seating Courtyard,ground,location,,1,The user describes this as the courtyard where students sit; no unique map anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+students-lounge-sitting-area,Students Lounge Sitting Area,floor-1,junction,,1,The document says sitting areas are on both sides and supplies no unique anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+teacher-chamber,Teacher Chamber,ground,location,,1,The user identifies Teacher Chamber as a zero-step right branch; no 3D anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+teachers-punching,Teachers Punching,ground,location,,1,The user identifies Teachers Punching as a zero-step left branch; no 3D anchor is supplied.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+terrace-staircase,Terrace Staircase,terrace,staircase,,1,The source gives a branch but no distance or map coordinate.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+vehicle-parking,"Bike, Car and Van Parking",ground,location,parking,1,The source distinguishes vehicle parking from the current generic Parking marker.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
+xerox-medical,Xerox and Medical Room,ground,location,xerox,1,The source combines Xerox and medical room; only Xerox has a current anchor.,,,,2026-09-09 18:10:22,2026-09-09 18:10:22
