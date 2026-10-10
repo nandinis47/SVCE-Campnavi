@@ -176,7 +176,10 @@ export async function findShortestRouteFromDatabase(startId: string, endId: stri
 
 export async function listRouteNodes() {
   const db = await getDb();
-  if (!db) throw new Error("DATABASE_URL is not configured");
+  if (!db) {
+    console.warn("[RouteGraph] Database not configured, returning empty node list");
+    return [];
+  }
   const rows = await db.select().from(routeNodes);
   return rows.map(toNode);
 }

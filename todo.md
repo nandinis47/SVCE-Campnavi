@@ -197,7 +197,7 @@
 - [x] Keep the branch's Face Detection Junction → R Wing 2 distance unweighted until supplied.
 - [x] Verify the end-to-end route and save a checkpoint.
 
-## Latest user-confirmed corrections
+## Latest user-confirm corrections
 
 - [x] Confirmed interpretation: College Bus Parking → right → 12 steps → shared R Wing 1 & 2 first-floor stairs; reverse wording from R-Wing Junction is the left path toward College Bus Parking, with stairs alongside.
 

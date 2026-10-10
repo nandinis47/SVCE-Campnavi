@@ -93,11 +93,11 @@ export default function Sidebar({
           {!collapsed && (
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-lg bg-amber-500/20 flex items-center justify-center">
-                <MapPin className="w-4 h-4 text-amber-400" />
+                <img src="/branding/campnavi-logo.png" alt="CampNavi Logo" className="w-6 h-6" />
               </div>
               <div>
                 <h2 className="text-white font-semibold text-sm tracking-wide">
-                  Campus Map
+                  SVCE CampNavi
                 </h2>
                 <p className="text-white/40 text-[10px]">
                   {CAMPUS_LOCATIONS.length} locations

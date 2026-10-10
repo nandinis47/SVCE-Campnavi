@@ -37,7 +37,6 @@ const statusLabel: Record<GeolocationStatus, string> = {
 };
 
 export default function RoutePanel({ startId, endId, onStartChange, onEndChange, route, routeSequence, routeRequested, onCalculate, onClear, locationStatus, locationPosition, locationError, onRequestLocation, routeNodes, routeLoading, routeError, routeNodesLoading, routeNodesError }: RoutePanelProps) {
-  const anchoredNodes = routeNodes.filter((node) => node.anchorId);
   return (
     <div className="fixed left-4 bottom-4 z-40 w-[min(390px,calc(100vw-2rem))] max-h-[calc(100vh-2rem)] overflow-hidden rounded-2xl border border-cyan-300/20 bg-slate-950/90 shadow-2xl backdrop-blur-xl text-white">
       <div className="flex items-center justify-between border-b border-white/10 px-4 py-3">
@@ -49,7 +48,7 @@ export default function RoutePanel({ startId, endId, onStartChange, onEndChange,
           <div className="mb-2 flex items-center justify-between"><div className="flex items-center gap-2"><span className="grid h-7 w-7 place-items-center rounded-full bg-blue-500/20"><LocateFixed className="h-4 w-4 text-blue-300" /></span><div><p className="text-xs font-semibold">Current position</p><p className="text-[10px] text-white/45">{statusLabel[locationStatus]}</p></div></div><button onClick={onRequestLocation} className="rounded-lg border border-blue-300/30 bg-blue-400/10 px-2.5 py-1.5 text-[10px] font-semibold text-blue-100 hover:bg-blue-400/20" disabled={locationStatus === "requesting"}>{locationStatus === "requesting" ? "Locating…" : "Use my location"}</button></div>
           {locationPosition && <p className="mb-2 text-[10px] text-blue-100/60">Outdoor accuracy ±{Math.round(locationPosition.accuracy)} m. GPS does not provide a reliable indoor floor position.</p>}
           {locationError && <p className="mb-2 flex items-start gap-2 text-[10px] leading-relaxed text-amber-200/80"><ShieldAlert className="mt-0.5 h-3 w-3 shrink-0" />{locationError}</p>}
-          <label className="block"><span className="mb-1 flex items-center gap-1 text-[10px] uppercase tracking-wider text-white/40"><Navigation className="h-3 w-3" />Confirm block / floor if unavailable</span><select value={startId} onChange={(event) => onStartChange(event.target.value)} className="w-full rounded-lg border border-white/10 bg-white/5 px-2.5 py-2 text-xs text-white outline-none focus:border-blue-300/60">{anchoredNodes.map((node) => <option key={node.id} value={node.id} className="bg-slate-900">{node.label}</option>)}</select></label>
+          <label className="block"><span className="mb-1 flex items-center gap-1 text-[10px] uppercase tracking-wider text-white/40"><Navigation className="h-3 w-3" />Confirm block / floor if unavailable</span><select value={startId} onChange={(event) => onStartChange(event.target.value)} className="w-full rounded-lg border border-white/10 bg-white/5 px-2.5 py-2 text-xs text-white outline-none focus:border-blue-300/60">{routeNodes.map((node) => <option key={node.id} value={node.id} className="bg-slate-900">{node.label}</option>)}</select></label>
           <p className="mt-2 text-[10px] leading-relaxed text-white/45">This confirmed position is used automatically as the route Start.</p>
         </section>
 
